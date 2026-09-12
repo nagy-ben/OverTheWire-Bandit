@@ -70,4 +70,4 @@ discord or IRC.
 
   Enjoy your stay!
 
-* Once I was in, I used 'ls' command to see the files in the directory. Then opened the readme file using 'cat readme' command.
+* Once I was in, I used 'ls' command to see the files in the directory. Then opened the readme file using 'cat readme' command. The password: 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
